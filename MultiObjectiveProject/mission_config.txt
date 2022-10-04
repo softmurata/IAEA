@@ -1,0 +1,9 @@
+target fuelburn: 18000 [kg]
+target airplane: A320
+target engine: V2500
+engine num: 2
+max takeoff weight: 78000 [kg]
+mach: 0.78
+altitude: 10668 [m]
+
+
